@@ -61,10 +61,14 @@ Tests were performed using fixed seed generation (`seed = 42 + run`) across 5 re
 ### Execution Time Performance Plots
 
 #### 1. Execution Time vs. Number of Vertices
-![Execution Time vs Vertices](results/plots/placeholder.txt/time_vs_vertices.png)
+![Execution Time vs Vertices](results/plots/1graf.png)
+![Execution Time vs Vertices Backup](results/plots/1graf)
+![Execution Time vs Vertices Nested](results/plots/placeholder.txt/1graf.png)
 
 #### 2. Execution Time vs. Number of Edges
-![Execution Time vs Edges](results/plots/placeholder.txt/time_vs_edges.png)
+![Execution Time vs Edges](results/plots/graf.png)
+![Execution Time vs Edges Backup](results/plots/graf)
+![Execution Time vs Edges Nested](results/plots/placeholder.txt/graf.png)
 
 ---
 
